@@ -1,1 +1,1 @@
-This project analyzes and visulaizes SuperMarket Sales data 
+This project analyzes and visualizes SuperMarket Sales data 
